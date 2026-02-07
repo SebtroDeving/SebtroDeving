@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWV4cnh6aTZnZTBlczZieml1Nm9lM2lzbzZwM3k5MHE1ZGg1bTd4NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/zUQrlUk7Zo51n57CNC/giphy.gif" alt="wave hello cat gif" width="120" height="120">
   <h1>
     Hey im Sebtro!
   </h1>
@@ -7,7 +6,7 @@
 
 <p float="left">
   <div>
-    <img align="left" width="365px" alt="cat photo left side" src="https://github.com/JosTheDude/JosTheDude/blob/main/C7EF6FCD-A491-42DF-BABF-AC6B7C630FC6_1_105_c.jpeg?raw=true">
+    <img align="left" width="365px" alt="cat photo left side" src="https://github.com/SebtroDeving/SebtroDeving/image.jpg?raw=true">
   </div>
   </p>
   <p float="left">
