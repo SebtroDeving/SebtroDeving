@@ -3,7 +3,7 @@
 # Hey, I'm Sebtro! 👋
 
 ### 🚀 Advanced Java Developer
-[**Discord**](https://discord.com) ~ [**Personal Site**](https://sebtro.dev) ~ [**Email**](mailto:contact@sebtro.dev)
+[**Discord**](https://discord.gg/emberstudios) ~ [**Personal Site**](https://emberstudios.com) ~ [**Email**](support@emberstudios.com)
 
 <br />
 
