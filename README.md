@@ -3,18 +3,20 @@
 # Hey, I'm Sebtro! 👋
 
 ### 🚀 Advanced Java Developer
-[**Discord**](https://discord.com) ~ [**Personal Site**](https://google.com) ~ [**Email**](mailto:your@email.com)
+[**Discord**](https://discord.com) ~ [**Personal Site**](https://sebtro.dev) ~ [**Email**](mailto:contact@sebtro.dev)
 
 <br />
 
 <table>
   <tr>
-    <td align="center" width="200">
-      <img src="https://raw.githubusercontent.com/SebtroDeving/SebtroDeving/main/image.jpg" width="150" style="border-radius: 10px;" alt="Sebtro Avatar"/><br />
+    <td align="center" width="250">
+      <img src="https://raw.githubusercontent.com/SebtroDeving/SebtroDeving/main/image.jpg" width="200" style="border-radius: 10px;" alt="Sebtro Avatar"/><br />
       <sub><b>Resident Supervisor 🐈</b></sub>
     </td>
-    <td align="center" width="400">
-      <img src="https://github-readme-stats.vercel.app/api?username=SebtroDeving&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+    <td align="center" width="450">
+      <img src="https://github-readme-stats.vercel.app/api?username=SebtroDeving&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+      <br/>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=SebtroDeving&theme=tokyonight&hide_border=true" alt="Streak Stats" />
     </td>
   </tr>
 </table>
