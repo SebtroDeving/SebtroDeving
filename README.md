@@ -3,7 +3,7 @@
 # Hey, I'm Sebtro! 👋
 
 ### 🚀 Advanced Java Developer
-[**Discord**](https://discord.gg/emberstudios) ~ [**Personal Site**](https://emberstudios.com) ~ [**Email**](support@emberstudios.com)
+[**Discord**](https://discord.com) ~ [**Personal Site**](https://sebtro.dev) ~ [**Email**](mailto:contact@sebtro.dev)
 
 <br />
 
@@ -14,9 +14,9 @@
       <sub><b>Resident Supervisor 🐈</b></sub>
     </td>
     <td align="center" width="450">
-      <img src="https://github-readme-stats.vercel.app/api?username=SebtroDeving&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-      <br/>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=SebtroDeving&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+      <br/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebtroDeving&layout=compact&theme=tokyonight&hide_border=true" />
     </td>
   </tr>
 </table>
