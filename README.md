@@ -10,7 +10,7 @@
 <table>
   <tr>
     <td align="center" width="200">
-      <img src="https://api.dicebear.com/7.x/bottts/svg?seed=Sebtro" width="120" alt="Avatar"/><br />
+      <img src="[https://api.dicebear.com/7.x/bottts/svg?seed=Sebtro](https://github.com/SebtroDeving/SebtroDeving/blob/main/image.jpg)" width="120" alt="Avatar"/><br />
       <sub><b>Resident Supervisor 🐈</b></sub>
     </td>
     <td align="center" width="400">
